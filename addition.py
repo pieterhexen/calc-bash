@@ -3,5 +3,5 @@
 
 
 def add(a,b):
-	#returns the sum of a and b
+	#returns the sum of a and b (and changes the fate of the world)
  	return a+b
